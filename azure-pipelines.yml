@@ -17,5 +17,5 @@ steps:
     echo See https://aka.ms/yaml
   displayName: 'Run a multi-line script'
 
-- script: pwd
+- script: ls
   displayName: Content of file1
